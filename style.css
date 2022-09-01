@@ -54,7 +54,7 @@ ul {
 
 
 
-button {
+.sn {
     border-radius: 8px;
     font-size: 25px;
     background-color: #3882f6;
@@ -114,8 +114,52 @@ button {
     font-size: 36px;
     text-align: center;
     font-weight: lighter;
-    font-style: italic;
+    font-style: italics;
 }
+
+
+
+
+.fourth {
+    padding: 150px;
+}
+
+.bt {
+    height: auto;
+    width: auto;
+    background-color: #3882f6;
+    border-radius: 2.5%;
+    padding: 20px;
+    border: auto;
+}
+
+
+.tusk {
+    border-radius: 8px;
+    font-size: 25px;
+    background-color: #3882f6;
+
+    padding: 8px;
+
+    border-color: white;
+    color: white;
+
+
+    padding: 8px;
+
+    margin-left: 1500px;
+    margin-top: -200px;
+
+
+    
+}
+
+
+
+.tusk:hover {
+    background-color: #1F2937;
+}
+
 
 
 
