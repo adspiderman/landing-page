@@ -65,6 +65,12 @@ ul {
 }
 
 
+.sn:hover {
+    font-size: 30px;
+    
+}
+
+
 .iq {
     height: 512px;
     border-radius: 10%;
@@ -148,7 +154,8 @@ ul {
     padding: 8px;
 
     margin-left: 1500px;
-    margin-top: -200px;
+    display: flex;
+    margin-top: -100px;
 
 
     
@@ -160,6 +167,18 @@ ul {
     background-color: #1F2937;
 }
 
+
+.footer {
+    background-color: #1F2937;
+    padding: 40px;
+}
+
+
+.f {
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+}
 
 
 
